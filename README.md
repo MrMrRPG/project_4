@@ -14,13 +14,13 @@ Josh</br>
 Sam</br>
 
 <b>Domain</b></br>
-Games & Sports
+Applying Supervised Machine Learning in Chess
 
 <b>Topic</b></br>
 Chess
 
 <b>Angle</b></br>
-Gender & Chess
+How to Predict Winners Based on First 3 Moves
 
 <b>Possible Datasets</b></br>
 <a href="https://www.kaggle.com/vikasojha98/top-women-chess-players">Top Women Chess Players</a></br>
@@ -36,7 +36,7 @@ Gender & Chess
 <a href="https://api.chess.com/pub/titled/WGM">JSON List of WGMs</a></br>
 
 <b>Database</b></br>
-AWS Athena
+Microsoft Azure
 
 <b>New JS Library</b></br>
 Google Charts
