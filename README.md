@@ -22,6 +22,12 @@ Chess
 <b>Angle</b></br>
 How to Predict Winners Based on First 3 Moves
 
+<b>Methodology</b></br>
+Using our primary dataset named "Games.csv" in our Resources folder, our team had access to over 20,000 records of chess games outcome data to train our machine learning algorhythm. In terms of data massaging, our team wanted to convert the column "Moves" which contains a sequence of the moves the particular player used in a single game. Using Excel, our team used "Text to Columns" to extract the moves and turned each move into individual columns (since we only wanted the first three moves per game to use for our prediction). Before the data is used, our last step was to drop unnecessary columns so there would not be so much noise. We dropped "id", "increment_code", "black_rating", "white_rating", "opening_name", "opening_ply", and "turns". Finally, now that our data is primed, we went ahead and split our data into training and testing sets with the column "winner" as our target data. Under the "winner" column, we have 3 possible outcomes: "black", "white", or "draw".<b></b></br>
+Using Pandas, our team experimented with two particular methods of machine learning: Logistic Regression and Random Forest Classifier.
+
+<b>Observations</b></br>
+
 <b>Possible Datasets</b></br>
 <a href="https://www.kaggle.com/vikasojha98/top-women-chess-players">Top Women Chess Players</a></br>
 <a href="https://www.kaggle.com/odartey/top-chess-players">Top 100 Chess Players Historical</a></br>
