@@ -35,6 +35,9 @@ To view our machine learning results with target data containing "draw", please 
 To view our machine learning results with target data not containing "draw" but with reduced features, please navigate to "Data_CSV" folder and click on "Starter_Code_dropped_columns"<b></b></br>
 To view our machine learning results with target data not containing "draw" but keeping all features, please navigate to "Data_CSV" folder and click on "Starter_Code_not_dropped_columns"
 
+<b>Conclusions</b></br>
+Although our initial theory on why Logistic Regression did not work well with our data was because of the 3 outcomes, even when we reduced to 2 potential outcomes, our team still only received a 50% accuracy with Logistic Regression. Overall, our team believed that it's proven that the independent and dependent variables in our model are not that linear (first 3 opening moves and outcome of game). This also proves that non-linear scenarios cannot be used with logistic regression. Therefore, Random Forest has a particular better use with our data. We were also able to avoid overfitting with Random Forest because of its random nature. This process naturally took much longer than Logistic Regression, but it yielded more favorable results even with such a large dataset.   
+
 <b>Possible Datasets</b></br>
 <a href="https://www.kaggle.com/vikasojha98/top-women-chess-players">Top Women Chess Players</a></br>
 <a href="https://www.kaggle.com/odartey/top-chess-players">Top 100 Chess Players Historical</a></br>
