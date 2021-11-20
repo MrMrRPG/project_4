@@ -58,7 +58,7 @@ Microsoft Azure
 Google Charts
 
 <b>Slides</b></br>
-<a href="https://docs.google.com/presentation/d/1-GgaypWJtLD9YS8pDuaeQwrsGmZznVuhTCam62pIR6Q/edit?usp=sharing">Slide Deck</a></br>
+<a href="https://docs.google.com/presentation/d/1qr0lT9g8Qi3H8QMIaYOAUBMlpcpHc3dtYH2VO7E4Y-I/edit?usp=sharing">Slide Deck</a></br>
 
 <b>Bibliography</b></br>
 <a href="https://www.titledopens.com/">Titled Chess</a></br>
