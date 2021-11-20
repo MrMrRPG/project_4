@@ -1,6 +1,6 @@
 # project_4_turochamp by pink + pandas.py
 
-<a href="https://mrmrrpg.github.io/project_3/">Project_3_TuroChamp</a></br>
+<a href="https://turochamp.z5.web.core.windows.net/">Project_3_TuroChamp</a></br>
 
 <b>Directory</b></br>
 1. To access our dashboard: Please click on the link of Project_3_TuroChamp above
